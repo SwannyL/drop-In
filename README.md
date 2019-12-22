@@ -1,3 +1,4 @@
 # drop-In
 link is (alpha) website 
-file:///C:/Users/Logan/Desktop/dropIn/pages/home.html
+idk for some reason i cant get the styleSheet to work thats what im on currently
+https://swannyl.github.io/drop-In/dropIn/pages/home.html
